@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/utubeapi/static/css/main.87962035.chunk.css",
+    "main.js": "/utubeapi/static/js/main.f4d2846a.chunk.js",
+    "main.js.map": "/utubeapi/static/js/main.f4d2846a.chunk.js.map",
+    "runtime~main.js": "/utubeapi/static/js/runtime~main.618f09d0.js",
+    "runtime~main.js.map": "/utubeapi/static/js/runtime~main.618f09d0.js.map",
+    "static/js/2.0b3124e9.chunk.js": "/utubeapi/static/js/2.0b3124e9.chunk.js",
+    "static/js/2.0b3124e9.chunk.js.map": "/utubeapi/static/js/2.0b3124e9.chunk.js.map",
+    "index.html": "/utubeapi/index.html",
+    "precache-manifest.2d5f18594af9bddd49ba8fe0fd9e3fc9.js": "/utubeapi/precache-manifest.2d5f18594af9bddd49ba8fe0fd9e3fc9.js",
+    "service-worker.js": "/utubeapi/service-worker.js",
+    "static/css/main.87962035.chunk.css.map": "/utubeapi/static/css/main.87962035.chunk.css.map"
+  }
+}
