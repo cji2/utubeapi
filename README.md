@@ -1,3 +1,12 @@
+REST-based React Apps with Redux Thunk for Streaming Video using OBS & RTMP server.
+
+                               Web server (creating, editing, deleting streaming)   -------> (stream) Browser  -----
+                                                      ^                                                             |
+                                                      |                                                             |
+                                                      |                                                             |
+OBS(open broadcaster software)---> (stream) RTMP(real time messaging protocol) server  (request with stream id) <--- 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
